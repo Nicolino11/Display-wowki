@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Maneja un display de 7 segementos (sin punto).
 
 ## How to test
 
-Explain how to use your project
+El LSB y MSB asi como que salida corresponde a que segmento se encuentra en el info.yaml
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Display de 7 segementos
